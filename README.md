@@ -1,6 +1,6 @@
 # complete_demo
 
-A new Flutter project.
+A new Flutter project. Karaoke Assistant!
 
 ## Getting Started
 
